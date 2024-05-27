@@ -8,7 +8,7 @@ Weblog description: This is a weblog.
 Author: James Leighton
 // Canonical domain: elsewhere.tld
 // Landing page: /
-Landing page template: Landing Page Template
+//Landing page template: Landing Page Template
 
 
 ;; General config stuff
@@ -18,7 +18,7 @@ Separator:  ·
 Navigation: [Testing](/tag/testing) 
 Navigation: about, another-page, <a href="https://example.com">Example</a>, [Example](https://example.com)
 Files path: /files/
-Landing page post count: 1
+Landing page post count: 10
 // Landing page post length: 45 words
 Post template: Post Template
 
