@@ -3,7 +3,7 @@
 ;; About your weblog
 ;; -----------------
 
-Weblog title: James' Blog
+Weblog title: James Leighton's Blog
 Weblog description: This is a weblog.
 Author: James Leighton
 // Canonical domain: elsewhere.tld
@@ -14,12 +14,11 @@ Landing page template: Landing Page Template
 ;; General config stuff
 ;; --------------------
 
-Separator:  ·
-Navigation: [Testing](/tag/testing) 
-Navigation: about, another-page, <a href="https://social.lol/@semaj">Mastodon</a>, [Example](https://example.com)
+Separator:  · 
+// Navigation: about, another-page, <a href="https://example.com">Example</a>, [Example](https://example.com)
 Files path: /files/
 Landing page post count: 10
-Landing page post length: 45 words
+// Landing page post length: 45 words
 Post template: Post Template
 
 
@@ -37,7 +36,7 @@ Next page template: <span class="next-page"><a href="$next_page">Next Page →</
 ; You can use a timezone value from the "TZ database name" column on this 
 ; web page: https://en.wikipedia.org/wiki/List_of_tz_database_time_zones
 
-Timezone: Europe/London
+Timezone: UTC
 Date format: F j, Y g:i A
 
 
@@ -45,7 +44,7 @@ Date format: F j, Y g:i A
 ;; -----
 
 Feed post count: 25
-Feed post appendix: <p><em>Published with weblog.lol!</em></p>
+// Feed post appendix: <p><em>Published with weblog.lol!</em></p>
 
 
 ;; Posts
