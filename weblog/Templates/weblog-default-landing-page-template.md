@@ -169,7 +169,7 @@ td, th {
 </style>
 </head>
 <body>
-Landing page Template
+
 <header>
 	<h1 class="weblog-title"><a href="{base-path}">{weblog-title}</a></h1>
 	{navigation}
