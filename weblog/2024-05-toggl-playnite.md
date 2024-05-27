@@ -18,7 +18,7 @@ To track PC gaming time, you can use Toggl's shortcut mode alongside Playnite's 
 
 Start by creating a desktop shortcut of the Project you want to log time with in Playnite. I have a project called 'Gaming' so I will right click on an entry in that project and click 'Create Desktop Shortcut'. 
 
-![Creating a Toggl Shortcut](/images/2024/toggl-2.png)
+![Creating a Toggl Shortcut](https://cdn.some.pics/semaj/665494f88ea4d.png)
 
 
 Find the shortcut that was created on your desktop, and copy the entire Target field to your clipboard. 
@@ -27,7 +27,7 @@ Find the shortcut that was created on your desktop, and copy the entire Target f
 C:\Users\ms\AppData\Local\TogglTrack\TogglTrack.exe start -b False -d "{Name} {Platform}" -p Gaming
 ```
 
-![Playnite Script Settings](/images/2024/toggl-3.png)
+![Playnite Script Settings](![Playnite Script Settings](https://cdn.some.pics/semaj/6654951aefb41.png))
 
 Open Playnite, go to Settings > Scripts. Paste the 'Target' path you copied to your clipboard into 'Execute after a game is started'. You can also use Playnite variables such as {Name} and {Platform} to add context to the time tracking data.
 
@@ -41,4 +41,4 @@ To stop tracking when you close a game, update the following snippet with the lo
 
 From now on, when you launch a game via Playnite it will invoke Toggl to track time against the desired project.
 
-![Toggl Dashboard](/images/2024/toggl-4.png)
+![Toggl with Tracking Data](https://cdn.some.pics/semaj/6654953374a6c.png)
