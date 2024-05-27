@@ -7,7 +7,7 @@ Weblog title: James Leighton's Blog
 Weblog description: This is a weblog.
 Author: James Leighton
 // Canonical domain: elsewhere.tld
-// Landing page: /
+Landing page: /
 Landing page template: Landing Page Template
 
 
