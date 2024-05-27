@@ -17,7 +17,7 @@ Landing page template: Landing Page Template
 Separator:  · 
 Navigation: about, <a href="https://example.com">Mastodon</a>, [Interests](https://example.com)
 Files path: /files/
-Landing page post count: 10
+Landing page post count: 1
 Landing page post length: 50 words
 Post template: Post Template
 
@@ -36,7 +36,7 @@ Next page template: <span class="next-page"><a href="$next_page">Next Page →</
 ; You can use a timezone value from the "TZ database name" column on this 
 ; web page: https://en.wikipedia.org/wiki/List_of_tz_database_time_zones
 
-Timezone: UTC
+Timezone: Europe/London
 Date format: F j, Y g:i A
 
 
