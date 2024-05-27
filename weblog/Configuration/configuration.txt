@@ -7,7 +7,7 @@ Weblog title: James' Weblog
 Weblog description: This is a weblog.
 Author: Your Name
 Canonical domain: test.semaj.omg.lol
-Landing page: /
+// Landing page: /
 Landing page template: Landing Page Template
 
 
