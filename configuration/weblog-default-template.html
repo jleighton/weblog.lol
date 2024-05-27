@@ -135,9 +135,6 @@ pre code {
 }
 
 img {
-	display: block;
-	width: auto;
-	height: auto;
 	max-width: 100%;
 }
 
@@ -161,7 +158,7 @@ td, th {
 <body>
 
 <header>
-	<h1 class="weblog-title"><a href="/">{weblog-title}</a></h1>
+	<h1 class="weblog-title"><a href="{base-path}">{weblog-title}</a></h1>
 	{navigation}
 </header>
 
@@ -169,15 +166,19 @@ td, th {
 
 <article>
 	{body}
+	<aside class="post-info">
+		<i class="fa-solid fa-clock"></i> {date}
+	</aside>
 	<aside class="post-tags">
 		{tags}
 	</aside>
 </article>
 
-<nav>
-    {previous-page}
-    {next-page}
-    </nav>
+<hr>
+
+<h2>Recent posts</h2>
+
+{recent-posts}
 
 </main>
 
