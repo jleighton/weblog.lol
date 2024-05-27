@@ -7,14 +7,14 @@ Weblog title: weblog.lol
 Weblog description: omg.lol’s weblog service
 Author: weblog.lol
 //Canonical domain: weblog.lol
-Landing page: /home
+Landing page: /
 
 
 ;; General config stuff
 ;; --------------------
 
 Separator:  · 
-// Navigation: about, another-page, <a href="https://example.com">Example</a>, [Example](https://example.com)
+Navigation: about, another-page, <a href="https://example.com">Mastodon</a>, [RSS](https://example.com)
 
 
 ;; Time stuff
@@ -23,7 +23,7 @@ Separator:  ·
 ; You can use a timezone value from the "TZ database name" column on this 
 ; web page: https://en.wikipedia.org/wiki/List_of_tz_database_time_zones
 
-Timezone: UTC
+Timezone: Europe/London
 Date format: F j, Y g:i A
 
 
