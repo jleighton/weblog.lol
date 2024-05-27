@@ -30,7 +30,7 @@ Find the shortcut that was created on your desktop, and copy the entire Target f
 C:\Users\ms\AppData\Local\TogglTrack\TogglTrack.exe start -b False -d "{Name} {Platform}" -p Gaming
 ```
 
-![Playnite Script Settings](![Playnite Script Settings](https://cdn.some.pics/semaj/6654951aefb41.png))
+![Playnite Script Settings](https://cdn.some.pics/semaj/6654951aefb41.png)
 
 Open Playnite, go to Settings > Scripts. Paste the 'Target' path you copied to your clipboard into 'Execute after a game is started'. You can also use Playnite variables such as {Name} and {Platform} to add context to the time tracking data.
 
