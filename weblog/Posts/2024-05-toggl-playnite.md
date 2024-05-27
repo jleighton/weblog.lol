@@ -1,4 +1,4 @@
-title: Gaming Time Tracking with Toggl and Playnite
+---
 date: 2024-05-25 12:00
 Author: jamesleighton
 Category: How-To
@@ -9,6 +9,9 @@ commentsid: 112501514689430746
 og_image: images/2024/toggl-1.png
 og_summary: How to using Playnite's scripting option to automate Toggl time tracking
 summary: I've been using Toggl to track my time for the last few months, and have tried to automate it as much as I can. I feed this time tracking into Exist.io which produces insights and correlations for me.
+---
+
+# Gaming Time Tracking with Toggl and Playnite
 
 I've been using Toggl to track my time for the last few months, and have tried to automate it as much as I can. I feed this time tracking into Exist.io which produces insights and correlations for me.
 

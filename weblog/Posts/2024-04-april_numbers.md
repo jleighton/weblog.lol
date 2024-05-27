@@ -1,5 +1,5 @@
-title: April 2024 in Numbers
-date: 2024-04-30 20:00
+---
+Date: 2024-04-30 20:00
 Author: jamesleighton
 Category: Life
 Tags: Gaming, Reading, Life
@@ -7,6 +7,9 @@ Slug: april-2024-in-numbers
 Status: published
 xcommentsid: 112348650963494945
 xog_image: images/2024/10.12.12TerryPratchettByLuigiNovi1.jpg
+---
+
+# April 2024 in Numbers
 
 Summary of Data Collected in Exist.io for April 2024
 

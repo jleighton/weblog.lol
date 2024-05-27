@@ -1,4 +1,4 @@
-title: GNU Terry Pratchett
+---
 date: 2024-04-28 12:37
 Author: jamesleighton
 Category: How-To
@@ -9,6 +9,9 @@ commentsid: 112348650963494945
 og_image: images/2024/10.12.12TerryPratchettByLuigiNovi1.jpg
 og_summary: It is Sir Terry Pratchett's birthday today so here is a quick guide on how to setup the GNU Terry Pratchett Tribute using Cloudflare.
 ---
+
+# GNU Terry Pratchett
+
 It is Sir Terry Pratchett's birthday today so here is a quick guide on how to setup the GNU Terry Pratchett Tribute using Cloudflare.
 
 > "A man is not dead while his name is still spoken."

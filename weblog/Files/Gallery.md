@@ -1,8 +1,9 @@
+---
 Type: file
 Content-Type: text/css
-Title: Image Gallery Code
+Title: Image Gallery CSS
 Location: /css/gallery.css
-
+---
 div.gallery {
     border: 1px solid #ccc;
   }
