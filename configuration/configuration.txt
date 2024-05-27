@@ -3,10 +3,10 @@
 ;; About your weblog
 ;; -----------------
 
-Weblog title: A Weblog
+Weblog title: James' Weblog
 Weblog description: This is a weblog.
 Author: Your Name
-// Canonical domain: elsewhere.tld
+Canonical domain: test.semaj.omg.lol
 // Landing page: /
 Landing page template: Landing Page Template
 
@@ -15,9 +15,9 @@ Landing page template: Landing Page Template
 ;; --------------------
 
 Separator:  · 
-Navigation: about, another-page, <a href="https://example.com">Example</a>, [Example](https://example.com)
+Navigation: about, <a href="https://example.com">Mastodon</a>, [Interests](https://example.com)
 Files path: /files/
-Landing page post count: 1
+Landing page post count: 10
 Landing page post length: 50 words
 Post template: Post Template
 
