@@ -12,4 +12,3 @@ Title: Post Template
 </article>
 
 <span class="divider"></span>
-.
